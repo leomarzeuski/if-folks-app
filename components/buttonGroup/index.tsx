@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { View, Pressable, Text, Platform } from "react-native";
+import { Pressable, Text, View } from "react-native";
 import { styles } from "./styles";
 
 interface IButtonGroup {
