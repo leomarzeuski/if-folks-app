@@ -21,6 +21,7 @@ Run the following command:
 bash
 ## Copy code
 npm run start
-This will start the app. Now you can open your browser and navigate to the local server's address (usually it's http://localhost:3000).
+
+This will start the app. Now you can open your browser and navigate to the local server's address (usually it's http://localhost:19000).
 
 Enjoy exploring the IT Folks App!
